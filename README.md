@@ -1,6 +1,7 @@
 # Tasktrek
 
 
+### git pull <link>
 
 ## Step-1
 ### cd Backend 
